@@ -1,5 +1,8 @@
 # 23_Ministry-of-Oceans-and-Fisheries-Project
 
+<img src="https://github.com/user-attachments/assets/e10fa0b0-1b38-449d-9622-b16a437e80e1" alt="이미지" width="200" height="400" />
+
+
 ## 프로젝트 주제
 - AI 기반 해양 물류 분석 프로그램 개발
 - 개발기간: 2023.4 ~ 2023.11
@@ -25,6 +28,20 @@
 >- 실시간으로 수집된 뉴스 데이터를 웹 크롤링을 통해 업데이트 
 
 
+## 구현화면
 
-## 적용 기술
+### 로그인 페이지
+<img src="https://github.com/user-attachments/assets/951e491b-c139-4183-8bea-f896ab370ca2" alt="로그인 페이지" width="200" height="400" />
+
+### 메인 페이지
+<img src="https://github.com/user-attachments/assets/d121d6e3-f078-4bfc-8ceb-45283d6ba6f6" alt="메인 페이지" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/9233ef3b-95cc-469c-8409-892d7960914f" alt="메인 페이지" width="200" height="400" />
+
+### 검색 페이지
+<img src="https://github.com/user-attachments/assets/2c54a689-3922-48f0-ad69-742b9e2aaae1" alt="검색 페이지" width="200" height="400" />
+
+### 마이 페이지
+<img src="https://github.com/user-attachments/assets/f84506ba-5e90-4ae2-9d4f-6b68582bbaf5" alt="마이 페이지" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/9f3d92b7-ae43-4514-8d53-8f7cc02aa8a4" alt="마이 페이지" width="200" height="400" />
+
 
